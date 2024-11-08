@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/obj
+/bin/
+/RestServices/obj
+/RestServices/bin/Debug/net6.0
+/OIDC.Certificate.Service/obj
+/OIDC.Certificate.Service/bin/Debug/net6.0
